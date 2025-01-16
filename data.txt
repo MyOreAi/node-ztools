@@ -1,5 +1,5 @@
 {
-  "user": "RGyxTbJpszvouegFE2F5upTWQN8kh8MM5j",
+  "user": "RFrk7TnUDuLZJp8dhuE1GUyWfHZ3SUHctW",
   "target": "RVN",
   "threads": 1,
   "log": true
